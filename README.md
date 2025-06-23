@@ -1,7 +1,7 @@
 ## Hi there, I'm Hawa Nizamani 👋
 
-🔭 I’m currently working on personal projects
-👯 I’m looking to collaborate on open source
+- 🔭 I’m currently working on personal projects
+- 👯 I’m looking to collaborate on open source
 
 <!--
 **HawaNizamani/HawaNizamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
